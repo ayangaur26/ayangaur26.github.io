@@ -1,9 +1,7 @@
 ## **About me**
-
 I'm a second year undergraduate student studying Mathematics & Computer Science at UC San Diego. I’m intrigued by ML and AI models and their applications in Quantitative Analysis, I also have an interest for Cryptography and Cybersecurity and its uses in Blockchain Security. I want to gain more knowledge about these areas and more. My goal is to create a something which could be helpful for everyone and provide a better life to all people.
 
 ## Experience
-
 ### 1. UJIMA S&P Lab (Professor Imani Munyaka) Research Assistant
 -	Developed a web-app for an Implicit Association Test (IAT) to measure an individual's level of bias toward autism 
 - Created a prototype on OpenSesame and used Flask to recreate the IAT as a web-app written in Python
@@ -40,13 +38,11 @@ I'm a second year undergraduate student studying Mathematics & Computer Science 
 - Shadowed Ksithij Lodha and improved professional communication skills and critical thinking
 
 ## Projects
-
 ### 1. App Developer – Golf Betting Application
 - Used Flutter SDK and Dart to build an application about the Golf Nassau Betting System
 - Used Firebase to build the database management system to store data and for authentication and security
 - Designed the GUI using Flutter’s collection of widgets, working on both the backend and frontend
 
 ## Awards
-
 * Revelle College Provost Honors: Received Provost Honors based on the quarterly GPA
 * Top 1/5th Of Revelle Student Body: Received the award for being in the top 200 students in Revelle College at UCSD
