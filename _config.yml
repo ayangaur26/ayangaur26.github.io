@@ -6,13 +6,12 @@ description: >
   <br>
   <b>Email: ayan.gaur@gmail.com</b>
   <br>
-  <br>
   <a href="https://drive.google.com/file/d/1teDMtAYbe3HOxPKYSFXRoaXVif7T9IK2/view?usp=sharing"><b><h2>Resume</a>
   <br>
   <br>
   <a href="https://www.linkedin.com/in/ayan-gaur/">LinkedIn</a>
-  <br>
   </h2></b>
 github: false
+host: false
 remote_theme: pages-themes/minimal@v0.2.0
 
