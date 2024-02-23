@@ -13,6 +13,7 @@ description: >
   <a href="https://www.linkedin.com/in/ayan-gaur/">LinkedIn</a>
   <br>
   </b>
+show_downloads: true
+google_analytics:
 remote_theme: pages-themes/minimal@v0.2.0
-show_social_icons: true
-exclude: [vendor]
+
