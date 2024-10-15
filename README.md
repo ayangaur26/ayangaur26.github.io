@@ -58,23 +58,6 @@ I have also completed a Machine Learning Foundations Certificate from Cornell Un
 - Learnt about risks in the stock market and how to assess them
 - Shadowed Ksithij Lodha and improved professional communication skills and critical thinking
 
-## Projects
-### 1. App Developer – Golf Betting Application
-- Used Flutter SDK and Dart to build an application about the Golf Nassau Betting System
-- Used Firebase to build the database management system to store data and for authentication and security
-- Designed the GUI using Flutter’s collection of widgets, working on both the backend and frontend
-
-### 2. Huffman Encoding Tree for File Compression
-- Built a Huffman encoding tree to perform file compression and decompression on file headers
-- Implemented a file compression tool using the Huffman algorithm to reduce storage size without losing information
-- Implemented a file decompression tool using the Huffman algorithm to get back the original file header
-- Enhanced the efficiency of the compression by using bit-packing to store larger numbers in smaller sequences
-
-### 3. Graph Class and Algorithms Implementation
-- Implemented important graph algorithms to represent and analyze network
-- Developed a Graph class to represent undirected graphs, applied to transmission clustering for HIV and COVID-19
-- Utilized the graph to identify transmission clusters and gather information for virus spread prevention through graph
-algorithms using BFS, Djikstra’s Algorithm, Connected Components, and Connecting Thresholds
 
 ## Awards
 * Revelle College Provost Honors: Received Provost Honors based on the quarterly GPA
