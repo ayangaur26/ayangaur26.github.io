@@ -11,6 +11,6 @@ description: >
   <br>
   <a href="https://www.linkedin.com/in/ayan-gaur/">LinkedIn</a>
   </h2></b>
-github: false
+github
 remote_theme: pages-themes/minimal@v0.2.0
 
