@@ -1,6 +1,6 @@
 ## Projects
 
-### 1. [Full - Stack Web Developer] (https://github.com/a2jensen/CSE-110-TritonMates/tree/development)
+### 1. [Full - Stack Web Developer] (#https://github.com/a2jensen/CSE-110-TritonMates/tree/development)
 - Built a full-stack web app using Next.js, Tailwind CSS for the UI and Firebase for backend through custom API functions
 - Employed an Agile software development process, managing sprints, gathering user feedback, and creating user stories to guide feature development and design.
 - Integrated Firebase Authentication for secure Google-based sign-in and sign-up, with Firestore for real-time data storage and retrieval.
@@ -8,7 +8,7 @@
 - Added RSVP functionality for events, leveraging Firebase to show real-time attendee updates.
 - Used GitHub for version control, managing structured commits, branch workflows, and collaborative code reviews.
 
-### 2. [User Rating Prediction Recommender System and Research Paper] (https://drive.google.com/file/d/1jTe1jFSHnlCgZ76BHsqI3kpLeLlQJZ5O/view?usp=drive_link)
+### 2. [User Rating Prediction Recommender System and Research Paper] (#https://drive.google.com/file/d/1jTe1jFSHnlCgZ76BHsqI3kpLeLlQJZ5O/view?usp=drive_link)
 - Conducted exploratory data analysis on a Food.com recipe and review dataset, identifying skews and key insights to guide predictive modeling.
 - Pre-processed data by handling missing values, filtering sparse reviews and users, and ensuring data validity for robust predictions.
 - Implemented Word2Vec similarity and SVD latent factor models to predict user ratings, optimizing hyperparameters and applying regularization to improve performance.
