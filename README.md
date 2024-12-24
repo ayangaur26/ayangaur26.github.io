@@ -11,10 +11,11 @@ I have also completed a Machine Learning Foundations Certificate from Cornell Un
 
 ## Experience
 ### 1. American Express ML Intern
-- Developed a sensitive data discovery model that detected and redacted PII, PCI, and contextual data from large financial text datasets, achieving an accuracy of 93% for identifying sensitive information
-- Leveraged Named Entity Recognition (NER) techniques, successfully identifying sensitive data with a precision of 90% and recall of 88%, ensuring compliance with privacy regulations
-- Integrated Regex for enhanced contextual discovery and redaction, improving detection of complex entities by 15%
-- Enhanced the dataset's consistency by overwriting it with proper classifications, using regex for accurate redaction validation, and improving detection of incorrectly classified data by 25% with custom regex solutions
+- Fine-tuned DeBERTa and DistilBERT models for sensitive data discovery and redaction, enhancing the detection and redaction of PII, PCI, and contextual data from large financial text datasets, achieving an accuracy of 93%
+- Enhanced the dataset's consistency by overwriting it with proper classifications, using regex for accurate redaction validation and improving detection of incorrectly classified data by 25% with custom regex solutions
+- Tackled challenges like over-redaction and false accuracy through iterative model refinements, tokenization updates, and advanced label alignment strategies
+- Developed and optimized contextual NER techniques, achieving 90% precision and 88% recall
+
 
 ### 2. Image InfoSystems Computer Vision Intern
 - Developed and trained high-performance computer vision models for OCR, mathematical symbol, and Russian character datasets, achieving over 95% accuracy and reducing loss to under 5%
