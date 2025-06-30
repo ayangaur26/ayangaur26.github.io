@@ -1,6 +1,6 @@
 ## Projects
 
-### 1. [Agentic Resume Generator] (https://resume-updater-one.vercel.app/)
+### 1. [Agentic Resume Generator](https://resume-updater-one.vercel.app/)
  I built this because I was changing and updating my resume very frequently and formatting it correctlty after even small changes was turning out to be a very time-consuming task. So I built a full-stack web application that acts as an intelligent assistant to automate the tedious process of editing and reformatting resumes. By simply giving natural lamguage commands such as 'add my project as an AI engineer where I completed the following work...', you can get properly formatted resume bullet points in LaTeX and an Overleaf document.
 
 - Engineered an AI Agent by integrating the Google Gemini API with a Node.js backend to intelligently parse and act on natural language commands
@@ -10,7 +10,7 @@
 - Designed and built a minimalist UI from scratch using React and custom CSS
 - Streamlined the final compilation step by integrating a direct "Open in Overleaf" feature, which POSTs the generated .tex code into a new project for immediate PDF viewing and download
 
-### 2. [Coffee dialing-in assistant] (https://coffee-dial-in.vercel.app/)
+### 2. [Coffee dialing-in assistant](https://coffee-dial-in.vercel.app/)
 For any coffee enthusiast,'dialing in' — the process of finding the perfect grind size for a specific combination of coffee beans, grinder, and brew method is a frustrating and wasteful cycle of trial and error. I created the AI Coffee Assistant to solve this problem. It replaces hours of manual research with a single, intelligent query. By leveraging a generative AI (Google Gemini API) with real-time web access, the application acts as an expert barista on demand. It automates the entire research and synthesis process, delivering a tailored, evidence-based starting point in seconds. 
 
 - Architected and built a full-stack application using a React/Vite/Tailwind CSS frontend and a Node.js/Express backend, establishing a secure client-server model to protect sensitive API credentials.

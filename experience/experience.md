@@ -1,9 +1,11 @@
 ## Experience
 
-### 1. Junkyard Computing Project – Distributed Systems Engineer
-- Implemented asynchronous job handling in Go for a grading system on repurposed Pixel Fold devices
-- Engineered a goroutine-driven, non-blocking API, achieving thread-safe state management and concurrency
-- Hardened Kubernetes manifests for low-resource hardware and ensured zero downtime deployments via multi-arch Docker builds
+### 1. [Junkyard Computing Project – Distributed Systems Engineer](https://github.com/AJ-RR/Junkyard-CSE237D)
+- Implemented asynchronous job handling for a Go-based grading service for Gradescope assignments running on repurposed Pixel Fold phones
+- Converted job flow to a goroutine-driven, non-blocking API with thread-safe state tracking, ensuring concurrency
+- Wrote a self-persisting metrics module that records per-job and aggregate latency in JSON, surviving pod restarts
+- Ensured cross-compilation and multi-arch Docker builds, rolling out images cluster-wide with zero downtime
+- Hardened Kubernetes manifests for low-resource hardware (ephemeral-storage) to stop pod evictions during grading
 
 ### 2. American Express ML Intern
 - Fine-tuned DeBERTa and DistilBERT models for sensitive data discovery and redaction, enhancing the detection and redaction of PII, PCI, and contextual data from large financial text datasets, achieving an accuracy of 93%
