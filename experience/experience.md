@@ -8,13 +8,13 @@
 - Hardened Kubernetes manifests for low-resource hardware (ephemeral-storage) to stop pod evictions during grading
 
 ### 2. American Express ML Intern
-- Fine-tuned DeBERTa and DistilBERT models for sensitive data discovery and redaction, enhancing the detection and redaction of PII, PCI, and contextual data from large financial text datasets, achieving an accuracy of 93%
-- Enhanced the dataset's consistency by overwriting it with proper classifications, using regex for accurate redaction validation and improving detection of incorrectly classified data by 25% with custom regex solutions
+- Fine-tuned DeBERTa and DistilBERT models for sensitive data discovery and redaction, enhancing the detection and redaction of PII, PCI, and contextual data from large financial text datasets, achieving an accuracy of 79%
+- Enhanced the dataset's consistency by overwriting it with proper classifications, using regex for accurate redaction validation and improving detection of incorrectly classified data by 30% with custom regex solutions
 - Tackled challenges like over-redaction and false accuracy through iterative model refinements, tokenization updates, and advanced label alignment strategies
-- Developed and optimized contextual NER techniques, achieving 90% precision and 88% recall
+- Developed and optimized contextual NER techniques, achieving 76% precision and 72% recall
 
 ### 3. Image InfoSystems Computer Vision Intern
-- Developed and trained high-performance computer vision models for OCR, mathematical symbol, and Russian character datasets, achieving over 95% accuracy and reducing loss to under 5%
+- Developed and trained high-performance computer vision models for OCR, mathematical symbol, and Russian character datasets, achieving 95% accuracy and reducing loss to under 5%
 - Converted trained TensorFlow models to PyTorch using a custom ONNX conversion function, ensuring 100% retention of model accuracy and preventing data loss across frameworks
 - Worked on a Bank Security Enhancement Project by working on computer vision solutions for cheque verification, increasing verification accuracy by 20%
 - Completed Stanford deep learning courses available on YouTube, expanding knowledge of neural networks, CNNs, and deep learning architectures
