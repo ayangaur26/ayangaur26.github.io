@@ -19,10 +19,10 @@ For any coffee enthusiast,'dialing in' — the process of finding the perfect gr
 - Developed a dynamic and responsive user interface focused on a clean, intuitive experience, managing asynchronous state to provide users with real-time feedback and data-driven results.
 
 ### 3. [TritonMates – Full-Stack Roommate Management App](https://github.com/a2jensen/CSE-110-TritonMates)
-- Built a full-stack web application using Next.js, Tailwind CSS, and Firebase, with secure Google authentication and Firestore data storage
-- Designed a points-based task system, RSVP event tracking, and avatar unlock rewards
-- Reduced data retrieval latency by 9.8% through optimized Firestore queries and modular API design
-
+- Built a full-stack web app on Next.js + Tailwind CSS for the frontend and Firebase for backend functionalities.
+- Incorporated Firebase Auth for secure Google sign-in, facilitating seamless user and data storage in Firestore.
+- Adopted Agile methodologies for iterative development, conducting sprint reviews and integrating user feedback.
+- Utilized GitHub for version control, managing feature development, issue tracking and debugging effectively.
 
 ### 4. [User Rating Prediction Recommender System and Research Paper](https://drive.google.com/file/d/1jTe1jFSHnlCgZ76BHsqI3kpLeLlQJZ5O/view?usp=drive_link)
 - Conducted exploratory data analysis on a Food.com recipe and review dataset, identifying skews and key insights to guide predictive modeling.
