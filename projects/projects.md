@@ -43,7 +43,7 @@ For any coffee enthusiast, 'dialing in' — the process of finding the perfect g
 - Implemented Word2Vec similarity and SVD latent factor models to predict user ratings, optimizing hyperparameters and applying regularization to improve performance.
 - Evaluated models using MSE, MAE, and RMSE, identified scalability challenges, and proposed future improvements based on comparisons with similar projects.
 
-###76. Web Developer
+### 7. Web Developer
 - Developed sticky note web application using React, enabling users to create, edit, delete, and filter notes, utilizing the useState hook for real-time state management.
 - Implemented a to-do list app using React, allowing users to add tasks, mark them as completed, and dynamically update the UI based on user actions, improving task management efficiency.
 - Integrated favorites toggle functionality in the sticky note app, providing users the ability to mark notes as important or remove them from the list, with seamless state transitions through React hooks.
