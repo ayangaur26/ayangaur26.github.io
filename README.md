@@ -1,12 +1,14 @@
 ## **About me**
-I am a Mathematics and Computer Science student at UC San Diego who likes developing solutions across the entire technology stack. My experience spans from building distributed systems and optimizing low-level OS components to architecting full-stack web applications and deploying machine learning models. I have professional ML experience at American Express and a foundation in Computer Vision. 
+I am a Computer Science Master’s student at the University of Illinois at Urbana-Champaign (UIUC) with a background in Mathematics and Computer Science from UC San Diego. I specialize in developing high-performance solutions across the entire technology stack, from architecting distributed systems and ML pipelines to optimizing low-level embedded firmware. Currently, my work focuses on the intersection of robotics and perception, where I am simultaneously building the full autonomy stack for self-driving vehicles and developing embedded drivers for self-balancing bipedal robots.
 
-I enjoy tackling problems such as, fine-tuning NLP models, minimizing microcontroller power consumption, or building scalable, user-centric web platforms. I am very interested in applying my  skill set to create efficient, intelligent, and impactful software.
+## Interests
+- Autonomous Systems & Robotics: I am currently implementing a complete embedded stack for an ESP32-based Biped robot, developing custom drivers for LiDAR, SVGA cameras, and Gyroscopes to achieve real-time self-balancing.
+- Computer Vision & Perception: My work involves multi-sensor calibration, 3D mapping via LiDAR fusion, and training Object Detection models for real-world vehicle logs.
+- Agentic AI: I enjoy orchestrating LLMs to automate complex workflows, such as thread-aware email agents and automated resume generators using LangChain and Groq.
 
 ## Education
-I'm a fourth year undergraduate student studying Mathematics & Computer Science at UC San Diego. 
+I'm a Masters Student studying Computer Science at University of Illinois at Urbana Champaign. I have a B.S in Mathematics and Computer Science from University of California - San Diego.
 I have also completed a Machine Learning Foundations Certificate from Cornell University.
 
 ## Awards
 * Revelle College Provost Honors: Received Provost Honors based on the quarterly GPA
-* Top 1/5th Of Revelle Student Body: Received the award for being in the top 200 students in Revelle College at UCSD
