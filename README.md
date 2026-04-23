@@ -7,8 +7,11 @@ I am a Computer Science Master’s student at the University of Illinois at Urba
 - Agentic AI: I enjoy orchestrating LLMs to automate complex workflows, such as thread-aware email agents and automated resume generators using LangChain and Groq.
 
 ## Education
-I'm a Masters Student studying Computer Science at University of Illinois at Urbana Champaign. I have a B.S in Mathematics and Computer Science from University of California - San Diego.
-I have also completed a Machine Learning Foundations Certificate from Cornell University.
+Masters in Computer Science - University of Illinois at Urbana-Champaign
+
+B.S. in Mathematics and Computer Science - University of California, San Diego
+
+Machine Learning Foundations eCertificate - Cornell University
 
 ## Awards
 * Revelle College Provost Honors: Received Provost Honors based on the quarterly GPA
