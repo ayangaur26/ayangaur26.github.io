@@ -6,7 +6,7 @@ description: >
   <br>
   <b>Email: ayan.gaur@gmail.com</b>
   <br>
-  <a href=/projects/projects><b><h2>Projects</a>
+  <a href=/projects/projects><h2>Projects</a>
   <br>
   <br>
   <a href=/experience/experience>Experience</a>
@@ -19,7 +19,7 @@ description: >
   <br>
   <br>
   <a href="https://github.com/ayangaur26">GitHub</a>
-  </h2></b>
+  </h2>
   
 github: false
 remote_theme: pages-themes/minimal@v0.2.0
