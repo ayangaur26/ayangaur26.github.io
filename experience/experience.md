@@ -24,6 +24,7 @@
 - Integrated LangSmith tracing into agent workflow, accelerating collaborative debugging and iteration by 2×
 
 ### 4. [Junkyard Computing Project – Distributed Systems Engineer](https://github.com/AJ-RR/Junkyard-CSE237D)
+*Mar 2025 - June 2025 | San Diego, CA*
 - Implemented asynchronous job handling for a Go-based grading service for Gradescope assignments running on repurposed Pixel Fold phones
 - Converted job flow to a goroutine-driven, non-blocking API with thread-safe state tracking, ensuring concurrency
 - Wrote a self-persisting metrics module that records per-job and aggregate latency in JSON, surviving pod restarts
@@ -31,6 +32,7 @@
 - Hardened Kubernetes manifests for low-resource hardware (ephemeral-storage) to stop pod evictions during grading
 
 ### 5. [American Express – ML Intern](https://github.com/Amex2B/AmexSensitiveData)
+*Aug 2024 - Dec 2024 | Remote*
 - Fine-tuned DeBERTa and DistilBERT models for sensitive data discovery and redaction, enhancing the detection and redaction of PII, PCI, and contextual data from large financial text datasets, achieving an accuracy of 79%
 - Enhanced the dataset's consistency by overwriting it with proper classifications, using regex for accurate redaction validation and improving detection of incorrectly classified data by 30% with custom regex solutions
 - Tackled challenges like over-redaction and false accuracy through iterative model refinements, tokenization updates, and advanced label alignment strategies

@@ -1,5 +1,5 @@
 ## **About me**
-I am a Computer Science Master’s student at the University of Illinois at Urbana-Champaign (UIUC) with a background in Mathematics and Computer Science from UC San Diego. I specialize in developing high-performance solutions across the entire technology stack, from architecting distributed systems and ML pipelines to optimizing low-level embedded firmware. Currently, my work focuses on the intersection of robotics and perception, where I am simultaneously building the full autonomy stack for self-driving vehicles and developing embedded drivers for self-balancing bipedal robots.
+I am a Computer Science Master’s student at the University of Illinois at Urbana-Champaign (UIUC) with a B.S. in Mathematics and Computer Science from UC San Diego. I love working on low-level embedded firmware, making custom drivers for MCU's, robotics, and self-driving. I have prior experience in robotics and perception, where I completed projects building a full autonomy stack for self-driving vehicles and developing drivers for a self balancing bipedal robot.
 
 ## Interests
 - Autonomous Systems & Robotics: I am currently implementing a complete embedded stack for an ESP32-based Biped robot, developing custom drivers for LiDAR, SVGA cameras, and Gyroscopes to achieve real-time self-balancing.
@@ -11,11 +11,6 @@ I am a Computer Science Master’s student at the University of Illinois at Urba
 - B.S. in Mathematics and Computer Science - University of California, San Diego (Sep 2022 – Dec 2025, GPA: 3.7)
 - Machine Learning Foundations eCertificate - Cornell University
 
-## Technical Skills
-- **Languages:** Python, C/C++, Bash, Go, SQL, Java, Kotlin, JavaScript, TypeScript
-- **Frameworks:** Kubernetes, LangChain, Ollama, Flask, FreeRTOS
-- **Developer Tools:** Linux/UNIX, Docker, Git, GitLab, GDB, Rerun, PostgreSQL
-- **Libraries:** PyTorch, torchvision, SciPy, NumPy, Pandas, Scikit-Learn, Open3D, FAISS
 ## Awards & Honors
 * **Tau Beta Pi:** Member of the National Engineering Honor Society
 * **Revelle College Provost Honors:** Received Provost Honors based on the quarterly GPA

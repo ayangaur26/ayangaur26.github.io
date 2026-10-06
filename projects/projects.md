@@ -1,7 +1,6 @@
 ## Projects
 
 ### 1. [Autonomous Driving GEM e4](https://github.com/ansh1113/gem_vlm_navigation)
-*Python, PyTorch, ROS, SLAM, LiDAR, GPT-4o | Jan 2026 – May 2026*
 - Integrated GPT-4o multimodal reasoning into a VLM navigation stack for natural language-commanded driving
 - Engineered LiDAR/stereo perception and factor-graph SLAM pipeline, halving trajectory ATE RMSE to 0.34m
 - Developed a CenterPoint 3D detector and AB3DMOT tracker using Kalman filtering for multi-class inference
@@ -9,14 +8,12 @@
 - Deployed stack to hardware via PACMod, publishing 20 Hz control commands across ROS 1 and ROS 2
 
 ### 2. Autonomous Bipedal Robot
-*C++, ESP32, FreeRTOS, I2C, PID | Jan 2026 – May 2026*
 - Developed ESP32 C++ firmware using FreeRTOS for real-time task scheduling and hardware timer configuration
 - Implemented low-level I2C drivers for IMU, OLED, and I/O expanders with safe shared-bus access
 - Architected control stacks with Kalman filtering for attitude estimation and PID for PWM motor actuation
 - Designed autonomous navigation featuring waypoint planners and UDP over Wi-Fi ground station telemetry
 
 ### 3. Autonomous IoT Robot Car & Embedded Navigation Stack
-*Raspberry Pi, Python, OpenCV, TFLite, A*, Custom PCB | Jan 2026 – Present*
 - Designed and routed a custom 2-layer PCB (Gerber layout) interfacing Raspberry Pi GPIO, DC motor drivers, grayscale module, photo-interrupters, and battery power.
 - Implemented dual-layer computer vision on Picamera2: real-time OpenCV HSV color masking for traffic rule compliance (Red STOP sign detection and halt) and TensorFlow Lite (TFLite EfficientDet-Lite) for COCO person detection.
 - Built a 1 cm resolution Cartesian occupancy grid mapping engine using stationary servo-panned (40°–140°) ultrasonic sensor sweeps with obstacle clearance inflation.
