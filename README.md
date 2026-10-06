@@ -7,9 +7,15 @@ I am a Computer Science Master’s student at the University of Illinois at Urba
 - Agentic AI: I enjoy orchestrating LLMs to automate complex workflows, such as thread-aware email agents and automated resume generators using LangChain and Groq.
 
 ## Education
-- Masters in Computer Science - University of Illinois at Urbana-Champaign
-- B.S. in Mathematics and Computer Science - University of California, San Diego
+- Masters in Computer Science - University of Illinois at Urbana-Champaign (Jan 2026 – Dec 2026, GPA: 3.92)
+- B.S. in Mathematics and Computer Science - University of California, San Diego (Sep 2022 – Dec 2025, GPA: 3.7)
 - Machine Learning Foundations eCertificate - Cornell University
 
-## Awards
-* Revelle College Provost Honors: Received Provost Honors based on the quarterly GPA
+## Technical Skills
+- **Languages:** Python, C/C++, Bash, Go, SQL, Java, Kotlin, JavaScript, TypeScript
+- **Frameworks:** Kubernetes, LangChain, Ollama, Flask, FreeRTOS
+- **Developer Tools:** Linux/UNIX, Docker, Git, GitLab, GDB, Rerun, PostgreSQL
+- **Libraries:** PyTorch, torchvision, SciPy, NumPy, Pandas, Scikit-Learn, Open3D, FAISS
+## Awards & Honors
+* **Tau Beta Pi:** Member of the National Engineering Honor Society
+* **Revelle College Provost Honors:** Received Provost Honors based on the quarterly GPA
